@@ -11,3 +11,6 @@ To build, install muon and run:
 # $MUON_LIB should point to the muon/lib directory from the muon repo
 $ mu ${MUON_LIB}/*.mu --args main.args
 ```
+
+[advent]: https://adventofcode.com/2019
+[muon]: https://github.com/nickmqb/muon
